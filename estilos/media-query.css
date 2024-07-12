@@ -49,5 +49,13 @@
     main > section#login > div#formulario {
         margin-left: 40%;
      } 
+
+    div#formulario > h1 {
+        font-size: 2em;
+    }
+
+    div#formulario > p {
+        font-size: 1.2em;
+    }
 }
 
